@@ -55,7 +55,7 @@ section{
     padding: 10px;
     margin-left: 93px;
     margin-right: 93px;
-    background-image: url(../página_de_captura/imagens_página_de_captura/people.jpg);
+    background-image: url(imagens_página_de_captura/people.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
@@ -64,7 +64,7 @@ select{
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    background-image: url(../página_de_captura/imagens_página_de_captura/arrow.jpg);
+    background-image: url(imagens_página_de_captura/arrow.jpg);
     background-repeat: no-repeat;
     background-position-x: right;
     background-position-y: center;
